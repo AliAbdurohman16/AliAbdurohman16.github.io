@@ -369,6 +369,10 @@ h5,
     border-radius: 0px;
 }
 
+.btn.btn-primary.daftar {
+    border-radius: 40px;
+}
+
 .btn.btn-secondary {
     border: 2px solid #ccc;
     background: none;
@@ -420,19 +424,6 @@ h5,
     background: #fff;
     border-color: #fff;
     color: #000;
-}
-
-.form-control {
-    border: none;
-    height: 55px !important;
-    background: #e6e6e6 !important;
-    color: #000 !important;
-    font-size: 18px;
-    border-radius: 0px;
-}
-
-textarea.form-control {
-    height: inherit !important;
 }
 
 .site-vh-100 {
